@@ -1,0 +1,1 @@
+curl --ssl-no-revoke -X POST -H "Content-Type:application/json" --data '{"jsonrpc":"2.0","method":"eth_blockNumber","params":[],"id":1}' https://sepolia-eth.w3node.com/a30881cf16d36d3108d2d77923eccbb0ac0928d4449f38a21337957a9317b7ef/api
